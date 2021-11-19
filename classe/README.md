@@ -18,9 +18,9 @@ O seu desafio é analisar o código da API que você construiu no desafio do mó
 
 Preencha a checklist para finalizar o exercício:
 
--   [ ] Resolver o exercício revendo a aula se necessário
--   [ ] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
--   [ ] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
--   [ ] Pushar os commits no seu fork na origem (`git push origin nome-da-branch`)
+-   [x] Resolver o exercício revendo a aula se necessário
+-   [x] Adicionar as mudanças aos commits (`git add .` para adicionar todos os arquivos ou `git add nome_do_arquivo` para adicionar um arquivo específico)
+-   [x] Commitar a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
+-   [x] Pushar os commits no seu fork na origem (`git push origin nome-da-branch`)
 
 ###### tags: `back-end` `módulo 4` `nodeJS` `boas praticas` `validacoes`
